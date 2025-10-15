@@ -43,7 +43,7 @@
     "@dnd-kit/modifiers": "^7.0.0",
     "@dnd-kit/sortable": "^8.0.0",
     "@dnd-kit/utilities": "^3.2.2",
-    "@edx/brand": "github:thitlwin/brand-mylango.app#mylango.release/teak",
+    "@edx/brand": "github:thitlwin/brand-mylango.app",
     "@edx/browserslist-config": "1.2.0",
     "@edx/frontend-component-footer": "^14.6.0",
     "@edx/frontend-component-header": "^6.2.0",
